@@ -3,5 +3,8 @@
 * My Website
 This is my first page. Made with org-mode.
 
+* Sample File
+Here is a sample [[file:sample.pdf][file]].
+
 * Contact Info
 - (Email) sanlee2545@gmail.com

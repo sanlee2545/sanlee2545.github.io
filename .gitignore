@@ -1,0 +1,5 @@
+*.aux
+*.log
+*.org~
+*.tex~
+*.toc
