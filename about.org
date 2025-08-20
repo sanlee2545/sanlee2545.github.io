@@ -1,0 +1,7 @@
+#+TITLE: About Me
+
+* My Website
+This is my first page. Made with org-mode.
+
+* Contact Info
+- (Email) sanlee2545@gmail.com
